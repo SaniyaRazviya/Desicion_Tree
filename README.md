@@ -1,4 +1,4 @@
-# 🚗 Decision Tree Regression - Car Age vs Resale Value
+# 🚗 Decision Tree - Car Age vs Resale Value
 
 This project demonstrates how to use a **Decision Tree Regressor** from `sklearn` to predict the resale value of a car based on its age.
 
